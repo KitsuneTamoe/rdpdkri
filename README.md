@@ -32,14 +32,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_ЮЗЕРНЕЙМ&theme=dark&hide_border=true&background=0d1117&ring=ff7f50&fire=ff7f50" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KitsuneTamoe&theme=dark&hide_border=true&background=0d1117&ring=ff7f50&fire=ff7f50" />
 </p>
 
 ---
 
 ### 🏆 GitHub Трофеи
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_ЮЗЕРНЕЙМ&theme=radical&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KitsuneTamoe&theme=radical&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
@@ -62,5 +62,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_ЮЗЕРНЕЙМ&color=ff69b4&style=for-the-badge&label=Просмотров+профиля" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KitsuneTamoe&color=ff69b4&style=for-the-badge&label=Просмотров+профиля" alt="profile views" />
 </p>
