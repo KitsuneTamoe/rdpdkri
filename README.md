@@ -5,10 +5,8 @@
 
 ---
 
-
-
-### 🛠️ Мой стек технологий
 <p align="center">
+  <h3>🛠️ Мой стек</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,go,postgres,redis,aws,figma,vscode" />
   </a>
