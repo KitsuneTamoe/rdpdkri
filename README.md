@@ -1,8 +1,8 @@
-<h1 align="center"><span style="color: #ff7f50;">[Твое Имя]</span> 👋</h1>
+<h1 align="center">KitsuneTamoe STACK</h1>
 <h3 align="center">Fullstack-разработчик | Open Source энтузиаст | Люблю кофе и чистый код ☕💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Пишу+код+на+Python+и+JS;Люблю+Linux+и+Docker;Всегда+учусь+чему-то+новому;Открыт+к+коллаборациям!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to;KitsuneTamoe+Web+Dev;NV+Vegas" alt="Typing SVG" />
 </p>
 
 ---
