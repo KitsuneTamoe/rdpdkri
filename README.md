@@ -10,7 +10,7 @@
 ### 🛠️ Мой стек технологий
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,go,rust,docker,kubernetes,linux,git,postgres,mongodb,redis,aws,figma" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,go,postgres,redis,aws,figma,vscode" />
   </a>
 </p>
 
